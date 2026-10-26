@@ -5,7 +5,7 @@ An interactive Tableau dashboard analyzing global fuel price fluctuations (Petro
 ---
 
 ## 📊 Live Interactive Dashboard
-👉 **[View the Live Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Capstone_Project_17930249060300/GlobalFuelDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+👉 **[View the Live Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Capstone_Project_17930249060300/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
